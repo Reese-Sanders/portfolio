@@ -1,0 +1,48 @@
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(36, 35, 83);
+}
+
+#navbar li {
+  float: left;
+}
+
+#navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navbar li a:hover {
+  background-color: rgb(57, 192, 255);
+}
+
+h1 {
+  color:brown;
+  font-size: 62px;
+  text-align: center;
+}
+
+h2 {
+  font-size:32px;
+  color:cornflowerblue;
+  margin-bottom: 32px;
+}
+
+.container {
+  max-width:50%;
+  margin:auto;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+#phone-number {
+  color:green;
+}
